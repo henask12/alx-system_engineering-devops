@@ -1,2 +1,2 @@
 #!/bin/bash
-DIRS=$(find . -type d -mindepth $n)
+echo ls  | wc -1 
