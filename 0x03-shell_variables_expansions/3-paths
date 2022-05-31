@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH | tr : n | wc -6 
+echo $PATH | tr : n | wc -2
